@@ -4,6 +4,6 @@ My name is Lorenz Riess and currently I am a PhD Candidate at the University of 
 Welcome to my homepage!
 Here you may find current information about my research, interests and myself.
 
-![](https://github.com/lorenzriess/lorenzriess.github.io/blob/main/portrait.jpeg){height=400px width=200px}
+![](https://github.com/lorenzriess/lorenzriess.github.io/blob/main/portrait.jpeg | width=100)
 
 
