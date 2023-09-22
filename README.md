@@ -16,7 +16,7 @@ I am mostly interested in Optimal Transport theory, its statistical and machine 
 
 ## Conferences and Talks
 * [ÖMG Tagung 2023](https://oemg-tagung-2023.at/), Graz, AUT, 18th September - 22th September, 2023  Talk: The geometry of financial institutions - Wasserstein clustering of financial data
-* European Summer School on Financial Mathematics[](https://www.tudelft.nl/evenementen/2023/ewi/diam/finance-summer-school-2023), Delft, NL, 04th September - 09th September, 2023  Talk: The geometry of financial institutions - Wasserstein clustering of financial data
+* [European Summer School on Financial Mathematics](https://www.tudelft.nl/evenementen/2023/ewi/diam/finance-summer-school-2023), Delft, NL, 04th September - 09th September, 2023  Talk: The geometry of financial institutions - Wasserstein clustering of financial data
 * [18. Doktorand:innentreffen der Stochastik 2023](https://stat.math.uni-heidelberg.de/dts2023/Registration/reg.html), Heidelberg, DEU, 21st August - 23rd August 2023  Talk: The geometry of financial institutions - Wasserstein clustering of financial data
 * [Social Artifical Intelligence Night](https://saint.fhstp.ac.at/), St. Pölten, AUT, 24th March 2023  Talk: A k-means like algorithm for distributional data with missing coordinates
 * [German Probability and Statistics Days 2023](https://www.gpsd-2023.de/), Essen, DEU, 07th March - 10th March 2023  Talk: Clustering financial institutions based on Wasserstein distance
