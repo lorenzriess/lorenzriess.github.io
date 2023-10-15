@@ -4,7 +4,7 @@ My name is Lorenz Riess and currently I am a PhD Candidate at the University of 
 Welcome to my homepage!
 Here you may find current information about my research, interests and myself.
 
-# Research:
+# Research
 I am mostly interested in Optimal Transport theory, its statistical and machine learning applications, applied probability theory and statistics.
 
 ## Publications
@@ -22,5 +22,26 @@ I am mostly interested in Optimal Transport theory, its statistical and machine 
 * [17. Doktorand:innentreffen der Stochastik](https://conference2.aau.at/event/131/), Klagenfurt, AUT, 03rd August - 05th August 2022  Talk: Clustering financial institutions based on Wasserstein distance
 * [PIMS- IFDS- NSF Summer School on Optimal Transport in Seattle](https://kantorovich.org/event/2022-optimal-transport-summer-school/), WA, 19th June - 01st July 2022  Talk: Clustering financial institutions based on Wasserstein distance
 
+# Short CV
 
+## Education
+* PhD Candidate in mathematics at University of Vienna since 10/2021,
+supervisors: [Julio Backhoff](https://sites.google.com/site/juliobackhoff/home) and [Mathias Beiglböck](https://www.mat.univie.ac.at/~mathias/)
+* Msc in statistics and probability theory at TU Wien 09/2021
+* exchange year at ETH Zurich 09/2019-08/2020
+* BSc in statistics and economical mathematics at TU Wien 07/2019
+* high school graduation at HTL Mödling 06/2015
 
+## Selected Professional Experience
+* Mathematician at Oesterreichische Nationalbank, the central bank of Austria, since 11/2022
+* Senior Consultant Actuarial & Insurance Services at B&W Deloitte GmbH 06/2022-10/2022
+* Consultant Actuarial & Insurance Services at B&W Deloitte GmbH 09/2020-05/2022
+* Project Staff at University of Vienna 02/2019-08/2019
+* civil service at paramedic at Samariterbund Wien GmbH 09/2015-05/2016
+
+## Teaching Experience
+* Academic Tutor in Analysis 1 for technical physis at TU Wien 10/2018-02/2019
+
+# Contact
+* mail: lorenz.riess AT univie DOT ac DOT at
+* [LinkedIn](https://www.linkedin.com/in/lorenz-riess-2357l/)
